@@ -10,3 +10,4 @@
 /Users/sanan/Desktop/Projects/Compar Academy/K232/Api/QuizApp/QuizApp.Core/obj/Debug/net8.0/QuizApp.Core.pdb
 /Users/sanan/Desktop/Projects/Compar Academy/K232/Api/QuizApp/QuizApp.Core/obj/Debug/net8.0/ref/QuizApp.Core.dll
 /Users/sanan/Desktop/Projects/Compar Academy/K232/Api/QuizApp/QuizApp.Core/obj/Debug/net8.0/QuizApp.Core.csproj.AssemblyReference.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K232/Api/QuizApp/QuizApp.Core/obj/Debug/net8.0/QuizApp.Core.sourcelink.json
