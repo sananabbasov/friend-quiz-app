@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aJGACrFJwJq4yTkMEnlvTB8qKoUCKulDVoc8qhpxRRI7GQmzQv61q76J130AI8C28ur700gru1YBreS57/jsCA==",
+  "success": true,
+  "projectFilePath": "/Users/sanan/Desktop/Projects/Compar Academy/K232/Api/QuizApp/QuizApp.WebApi/QuizApp.WebApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/sanan/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
